@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Homework_4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_application">MainApplication</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="add_friend">Add friends</string>
+    <string name="title_activity_user_details">UserDetailsActivity</string>
+    <string name="title_activity_friends_list">FriendsListActivity</string>
+    <string name="friends_list">Your friends:</string>
+    <string name="unfriended">Unfriended users:</string>
+    <string name="logout">Log out</string>
+    <string name="add_new_friend">Add as friend</string>
+    <string name="remove_friend">Remove from Friends List</string>
+    <string name="back">Back to list of unfriended users</string>
+    <string name="back2">Back to list of friends</string>
+    <string name="title_activity_friends_details">FriendsDetailsActivity</string>
+</resources>
